@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VisData_scatterplot_graph/static/css/main.98ccd8f0.css",
+    "main.js": "/VisData_scatterplot_graph/static/js/main.5eb8b3ee.js",
+    "static/js/787.40bfadb3.chunk.js": "/VisData_scatterplot_graph/static/js/787.40bfadb3.chunk.js",
+    "index.html": "/VisData_scatterplot_graph/index.html",
+    "main.98ccd8f0.css.map": "/VisData_scatterplot_graph/static/css/main.98ccd8f0.css.map",
+    "main.5eb8b3ee.js.map": "/VisData_scatterplot_graph/static/js/main.5eb8b3ee.js.map",
+    "787.40bfadb3.chunk.js.map": "/VisData_scatterplot_graph/static/js/787.40bfadb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ccd8f0.css",
+    "static/js/main.5eb8b3ee.js"
+  ]
+}
